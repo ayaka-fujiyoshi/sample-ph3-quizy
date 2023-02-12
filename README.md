@@ -1,4 +1,4 @@
-# phase3 Quizy sample code test
+# phase3 Quizy sample code testSetup
 
 ## setup
 
